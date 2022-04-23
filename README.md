@@ -7,3 +7,9 @@
 **Keywords**—Fake review, fake review detection, review values, machine learning, deep learning, e-commerce.
 
 
+**1_pretrained_roberta_gpt2_detector.ipynb** -- OpenAI GPT-2 algorithm 
+**2_roberta_finetune_amazon_reviews.ipynb** -- RoBERTa algorithm
+**3_nb_svm_strong_linear_baseline.ipynb** -- NB Logistic SVM
+
+**FinalReportMerge.ipynb** -- Final report of the merged dataset(Full dataset)
+**FinalReportNew.ipynb** -- Final report of the Human created fake review dataset(New dataset)
